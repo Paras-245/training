@@ -558,7 +558,7 @@ You can even make a page, with or without sub pages, editable only by a group of
 
 ## URL management
 
-Plone has an integrated mechanism to remember URLs that where modified.
+Plone has an integrated mechanism to remember URLs that were modified.
 A moved page is still available via the former URL.
 
 Additional to this behavior, a page can be explicitly made available under further URLs.
