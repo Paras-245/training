@@ -151,12 +151,13 @@ An add-on can be enabled per Plone instance.
 In your browser, go to `Site Setup` at `http://localhost:3000/controlpanel`, and open the `Add-ons` Panel. You will see a list of available add-ons.
 
 ````{card}
-```{image} _static/site_setup.png
+```{image} /_static/site_setup.png
 :alt: Plone Site Setup control panel showing available configuration options
-:target: _static/site_setup.png
+:target: /_static/site_setup.png
 ```
 +++
-_Plone Site Setup control panel with configuration options._
+_Plone Site Setup control panel showing available configuration options._
+
 
 ````
 Enable `ploneconf.site` now if you haven't done already.
