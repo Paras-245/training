@@ -157,8 +157,6 @@ In your browser, go to `Site Setup` at `http://localhost:3000/controlpanel`, and
 ```
 +++
 _Plone Site Setup control panel showing available configuration options._
-
-
 ````
 Enable `ploneconf.site` now if you haven't done already.
 
