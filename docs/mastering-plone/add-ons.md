@@ -4,7 +4,7 @@ myst:
     "description": "Extending Plone with features via existing backend add-ons"
     "property=og:description": "Extending Plone with features via existing backend add-ons"
     "property=og:title": "Extending Plone with add-on packages"
-    "keywords": "Plone, Volto, add-on, customizing" 
+    "keywords": "Plone, Volto, add-on, customizing"
 ---
 (add-ons-label)=
 
