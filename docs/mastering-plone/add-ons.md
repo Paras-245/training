@@ -6,6 +6,7 @@ myst:
     "property=og:title": "Extending Plone with add-on packages"
     "keywords": "Plone, Volto, add-on, customizing"
 ---
+
 (add-ons-label)=
 
 # Extending Plone with add-on packages
